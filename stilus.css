@@ -1,10 +1,9 @@
 .ausztria {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: rgb(62, 181, 255);
-    background-color: rgb(62, 181, 255);
-    color: blue;
-    text-shadow: darkblue;
+    border-color: rgb(155, 156, 253);
+    background-color: rgb(155, 156, 253);
+    color: darkblue;
     text-align: center;
 }
 
