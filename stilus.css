@@ -3,17 +3,19 @@
     border-radius: 2mm; height: 50px;
     border-color: rgb(155, 156, 253);
     background-color: rgb(155, 156, 253);
-    color: darkblue;
+    color: rgb(22, 26, 133);
     text-align: center;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 #toneve {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color:  rgb(62, 181, 255);
-    background-color:   rgb(62, 181, 255);
-    color: blue;
+    border-color:  rgb(185, 186, 253);
+    background-color:   rgb(185, 186, 253);
+    color: rgb(22, 26, 133);
     text-align: left;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 .velence {
@@ -21,47 +23,56 @@
     border-radius: 2mm; height: 50px;
     border-color: lightgray;
     background-color: lightgray;
-    color: darkblue;
+    color: rgb(22, 26, 133);
     text-align: center;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 .adatnevek {
     border-style: solid;
     border-radius: 2mm; height: 50px; width: 100px;
-    border-color:  rgb(62, 181, 255);
-    background-color: rgb(62, 181, 255);
-    color: blue;
+    border-color:  rgb(185, 186, 253);
+    background-color: rgb(185, 186, 253);
+    color: rgb(10, 14, 121);
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 .adatok {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: lightskyblue;
-    background-color: lightskyblue;
-    color: blue;
+    border-color: rgb(214, 214, 254);
+    background-color: rgb(214, 214, 254 );
+    color: rgb(10, 14, 121);
     text-align: center;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 .kiemelt {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: lightskyblue;
-    background-color: lightskyblue;
-    color: red;
+    border-color: rgb(214, 214, 254 );
+    background-color: rgb(214, 214, 254 );
+    color: rgb(196, 74, 71);
     text-align: center;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
 
 #table {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: rgb(184, 184, 184);
+    border-color: rgb(155, 155, 212);
 }
 
 #velence {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: rgb(158, 158, 158);
-    background-color: rgb(158, 158, 158);
-    color: darkblue;
+    border-color: rgb(184, 184, 184);
+    background-color: rgb(184, 184, 184);
+    color: rgb(10, 14, 121);
     text-align: center;
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
+}
+
+.kepek {
+    box-shadow: 3px 3px 3px rgb(10, 16, 152);
 }
