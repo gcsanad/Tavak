@@ -1,8 +1,61 @@
 .ausztria {
     border-style: solid;
     border-radius: 2mm;
-    border-color: lightskyblue ;
-    background-color: lightskyblue;
-    box-shadow: lightskyblue;
+    border-color: rgb(62, 181, 255);
+    background-color: rgb(62, 181, 255);
     color: blue;
+}
+
+#toneve {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color:  rgb(62, 181, 255);
+    background-color:   rgb(62, 181, 255);
+    color: blue;
+}
+
+.velence {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color: lightgray;
+    background-color: lightgray;
+    color: darkblue;
+}
+
+.adatnevek {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color:  rgb(62, 181, 255);
+    background-color: rgb(62, 181, 255);
+    color: blue;
+}
+
+.adatok {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color: lightskyblue;
+    background-color: lightskyblue;
+    color: blue;
+}
+
+.kiemelt {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color: lightskyblue;
+    background-color: lightskyblue;
+    color: red;
+}
+
+#table {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color: lightgray;
+}
+
+#velence {
+    border-style: solid;
+    border-radius: 2mm;
+    border-color: rgb(158, 158, 158);
+    background-color: rgb(158, 158, 158);
+    color: darkblue;
 }
