@@ -4,7 +4,8 @@
     border-color: rgb(62, 181, 255);
     background-color: rgb(62, 181, 255);
     color: blue;
-    
+    text-shadow: darkblue;
+    text-align: center;
 }
 
 #toneve {
@@ -13,6 +14,7 @@
     border-color:  rgb(62, 181, 255);
     background-color:   rgb(62, 181, 255);
     color: blue;
+    text-align: left;
 }
 
 .velence {
@@ -21,11 +23,12 @@
     border-color: lightgray;
     background-color: lightgray;
     color: darkblue;
+    text-align: center;
 }
 
 .adatnevek {
     border-style: solid;
-    border-radius: 2mm; height: 50px;
+    border-radius: 2mm; height: 50px; width: 100px;
     border-color:  rgb(62, 181, 255);
     background-color: rgb(62, 181, 255);
     color: blue;
@@ -37,6 +40,7 @@
     border-color: lightskyblue;
     background-color: lightskyblue;
     color: blue;
+    text-align: center;
 }
 
 .kiemelt {
@@ -45,12 +49,13 @@
     border-color: lightskyblue;
     background-color: lightskyblue;
     color: red;
+    text-align: center;
 }
 
 #table {
     border-style: solid;
     border-radius: 2mm; height: 50px;
-    border-color: lightgray;
+    border-color: rgb(184, 184, 184);
 }
 
 #velence {
@@ -59,4 +64,5 @@
     border-color: rgb(158, 158, 158);
     background-color: rgb(158, 158, 158);
     color: darkblue;
+    text-align: center;
 }
